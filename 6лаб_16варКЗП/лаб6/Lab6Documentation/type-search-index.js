@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"KI.Milian.Lab6","l":"AgriculturalPlot"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI.Milian.Lab6","l":"Driver"},{"p":"KI.Milian.Lab6","l":"LandPlotContainer"},{"p":"KI.Milian.Lab6","l":"ResidentialPlot"}];updateSearchResults();
