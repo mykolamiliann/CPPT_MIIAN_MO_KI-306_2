@@ -1,0 +1,3 @@
+Dictaphone initialized.
+Playing track: Recorded Track on built-in speaker.
+Battery capacity after playing track: 2900mAh
