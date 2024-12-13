@@ -1,0 +1,9 @@
+Connected to Bluetooth device: Bluetooth Speaker
+Battery capacity after connecting to Bluetooth: 3970mAh
+Playing track: Song 1 on device: Bluetooth Speaker
+Battery capacity after playing track: 3920mAh
+Increased volume to: 80
+Charged battery by 500mAh. New capacity: 4420mAh
+Disconnected from Bluetooth device.
+Playing track: Song 2 on built-in speaker.
+Battery capacity after playing track: 4370mAh
