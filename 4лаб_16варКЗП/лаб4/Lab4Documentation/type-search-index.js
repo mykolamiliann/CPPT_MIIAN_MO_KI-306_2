@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI.Milian.Lab4","l":"CalcException"},{"p":"KI.Milian.Lab4","l":"Driver"},{"p":"KI.Milian.Lab4","l":"Function"}];updateSearchResults();
